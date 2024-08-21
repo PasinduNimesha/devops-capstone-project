@@ -1,5 +1,5 @@
 """
-Models for Account
+Model for Account
 
 All of the models are stored in this module
 """
